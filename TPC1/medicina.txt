@@ -8370,8 +8370,7 @@ LINGUA en
 @PCA (sg); posterior cerebral artery
 
 LINGUA pt
-@ACP
-<text top="324" left="169" width="25" height="14" font="0"> (sg); </text>
+@ACP (sg);
 @artéria cerebral posterior
 
 LINGUA la
@@ -10714,8 +10713,7 @@ DESC Vid.- nebulización
 ###T atomizador 
 
 DESC Vid.- nebulizador
-<text top="189" left="342" width="35" height="18" font="2">  544 </text>
-###T atopía      f
+###TN 544 atopía      f
 
 
 AREA Etiopatoxenia
@@ -19814,8 +19812,7 @@ DESC Vid.- citomegalovirus
 
 DESC Vid.- monóxido de carbono
 
-###T CO
-<text top="666" left="149" width="4" height="10" font="13"><b>2</b></text>
+###T CO2
 
 DESC Vid.- dióxido de carbono
 ###TN 1011  coagulación      f
@@ -26708,8 +26705,7 @@ LINGUA pt
 
 
 DESC Vid.- desconxestionante
-<text top="683" left="89" width="35" height="18" font="2"> 1351 </text>
-###T descorticación      f
+###TN 1351 descorticación      f
 
 AREA Etiopatoxenia
 
@@ -27737,8 +27733,7 @@ LINGUA pt
 
 AREA Bioquímica
 
-SIN  CO
-<text top="315" left="425" width="3" height="8" font="14">2</text>
+SIN  CO2
 (sb); anhídrico carbónico 
 
 [arc.]
@@ -28722,8 +28717,6 @@ LINGUA en
 LINGUA pt
 @disgeusia
 
-<text top="217" left="374" width="45" height="14" font="8"><b>  DIU      </b></text>
-DESC Vid.- dispositivo intrauterino
 ###TN 1467  diurese      f
 
 
@@ -34141,8 +34134,7 @@ DESC Vid.- sarna
 ###T escafoide 
 
 DESC Vid.- óso escafoide
-<text top="125" left="342" width="35" height="18" font="2"> 1747 </text>
-###T escala timpánica      f
+###TN 1747 escala timpánica      f
 
 
 AREA Anatomía
@@ -39890,8 +39882,7 @@ LINGUA pt
 
 
 DESC Vid.- leiomioma uterino
-<text top="716" left="342" width="35" height="18" font="2"> 2033 </text>
-###T fibronectina      f
+###TN 2033 fibronectina      f
 
 
 AREA Bioquímica
@@ -58133,8 +58124,7 @@ LINGUA en
 
 LINGUA pt
 @quadro de leitura
-<text top="728" left="342" width="35" height="18" font="2"> 3002 </text>
-###T mareo      m
+###TN 3002 mareo      m
 
 
 AREA Semioloxía
@@ -60194,8 +60184,7 @@ LINGUA pt
 
 LINGUA la
 @metatarsus
-<text top="716" left="89" width="35" height="18" font="2">  3110 </text>
-###T meteorismo      m
+###TN 3110 meteorismo      m
 
 
 AREA Semioloxía
@@ -61174,8 +61163,7 @@ DESC Vid.- mioclonía
 ###T miodinia
 
 DESC Vid.- mialxia
-<text top="619" left="89" width="35" height="18" font="2"> 3169 </text>
-###T miofascite      f
+###TN 3169 miofascite      f
 
 AREA Patoloxías
 
@@ -63312,8 +63300,7 @@ LINGUA pt
 
 LINGUA la
 @musculus cutaneus
-<text top="125" left="89" width="35" height="18" font="2"> 3276 </text>
-###T músculo da barbela      m
+###TN 3276 músculo da barbela      m
 
 
 AREA Anatomía
@@ -74666,8 +74653,7 @@ LINGUA pt
 
 
 DESC Vid.- pancreatectomía
-<text top="366" left="89" width="35" height="18" font="2"> 3806 </text>
-###T pandemia      f
+###TN 3806 pandemia      f
 
 
 AREA Epidemioloxía
@@ -78797,8 +78783,7 @@ LINGUA pt
 ###T plicación
 
 DESC Vid.- plicatura
-<text top="666" left="342" width="35" height="18" font="2"> 4019 </text>
-###T plicatura      f
+###TN 4019 plicatura      f
 
 
 AREA Terapéutica
@@ -84212,25 +84197,21 @@ LINGUA pt
 @radical 
 
 @      carboxilo [Pt.]
-###TN 4301  radical libre de O
-<text top="522" left="236" width="4" height="10" font="13"><b>2</b></text>
+###TN 4301  radical libre de O2
 ###T m
 
 
 AREA Bioquímica
 
 LINGUA es
-@radical libre de O
-<text top="554" left="230" width="4" height="8" font="15"><i>2</i></text>
+@radical libre de O2
 
 LINGUA en
-@O
-<text top="569" left="158" width="4" height="8" font="15"><i>2</i></text>
+@O2
 @ free radical
 
 LINGUA pt
-@radical livre de O
-<text top="583" left="229" width="4" height="8" font="15"><i>2</i></text>
+@radical livre de O2
 ###TN 4302  radical metilo      m
 
 
@@ -84322,8 +84303,7 @@ LINGUA pt
 
 
 DESC Vid.- radioopacidade
-<text top="558" left="342" width="35" height="18" font="2"> 4308 </text>
-###T radiodermatite      f
+###TN 4308 radiodermatite      f
 
 
 AREA Patoloxías
@@ -85414,8 +85394,7 @@ LINGUA pt
 @reflexo 
 
 @      bulbo-cavernoso
-<text top="704" left="342" width="35" height="18" font="12"> 4359 </text>
-reflexo corneal      m
+4359 reflexo corneal      m
 
 
 @Semioloxía
@@ -86444,7 +86423,6 @@ AREA Histoloxía
 
 SIN  retículo endoplasmático agranular; 
 
-<text top="230" left="121" width="47" height="14" font="0">  REL (sg) </text>
 
 VAR VAR.- retículo endoplásmico liso
 

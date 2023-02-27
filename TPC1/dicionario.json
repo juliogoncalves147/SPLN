@@ -4820,6 +4820,15 @@
             "LINGUA pt",
             "@descongestionante"
         ],
+        "1351": [
+            "AREA Etiopatoxenia",
+            "LINGUA es",
+            "@decorticaci\u00f3n",
+            "LINGUA en",
+            "@decortication",
+            "LINGUA pt",
+            "@decortica\u00e7\u00e3o"
+        ],
         "1352": [
             "AREA Etiopatoxenia",
             "LINGUA es",
@@ -5526,8 +5535,7 @@
         ],
         "1410": [
             "AREA Bioqu\u00edmica",
-            "SIN  CO",
-            "<text top=\"315\" left=\"425\" width=\"3\" height=\"8\" font=\"14\">2</text>",
+            "SIN  CO2",
             "(sb); anh\u00eddrico carb\u00f3nico ",
             "[arc.]",
             "LINGUA es",
@@ -6209,9 +6217,7 @@
             "LINGUA en",
             "@dysgeusia",
             "LINGUA pt",
-            "@disgeusia",
-            "<text top=\"217\" left=\"374\" width=\"45\" height=\"14\" font=\"8\"><b>  DIU      </b></text>",
-            "DESC Vid.- dispositivo intrauterino"
+            "@disgeusia"
         ],
         "1467": [
             "AREA Fisiolox\u00eda",
@@ -9605,6 +9611,22 @@
             "@scabicide",
             "LINGUA pt",
             "@escabicida"
+        ],
+        "1747": [
+            "AREA Anatom\u00eda",
+            "SIN  rampla timp\u00e1nica",
+            "LINGUA es",
+            "@escala timp\u00e1nica",
+            ";",
+            "@rampa timp\u00e1nica",
+            "LINGUA en",
+            "@scala tympani",
+            "LINGUA pt",
+            "@escala timp\u00e2nica",
+            ";",
+            "@rampa timp\u00e2nica",
+            "LINGUA la",
+            "@scala tympani"
         ],
         "1748": [
             "AREA Anatom\u00eda",
@@ -13438,6 +13460,15 @@
             "@fibromyalgia",
             "LINGUA pt",
             "@fibromialgia"
+        ],
+        "2033": [
+            "AREA Bioqu\u00edmica",
+            "LINGUA es",
+            "@fibronectina",
+            "LINGUA en",
+            "@fibronectin",
+            "LINGUA pt",
+            "@fibronectina"
         ],
         "2034": [
             "AREA Anatom\u00eda patol\u00f3xica        Patolox\u00edas",
@@ -25834,8 +25865,16 @@
             "LINGUA en",
             "@reading frame",
             "LINGUA pt",
-            "@quadro de leitura",
-            "<text top=\"728\" left=\"342\" width=\"35\" height=\"18\" font=\"2\"> 3002 </text>"
+            "@quadro de leitura"
+        ],
+        "3002": [
+            "AREA Semiolox\u00eda",
+            "LINGUA es",
+            "@mareo",
+            "LINGUA en",
+            "@dizziness",
+            "LINGUA pt",
+            "@tontura"
         ],
         "3003": [
             "AREA Terap\u00e9utica",
@@ -27256,8 +27295,7 @@
             "LINGUA pt",
             "@metatarso",
             "LINGUA la",
-            "@metatarsus",
-            "<text top=\"716\" left=\"89\" width=\"35\" height=\"18\" font=\"2\">  3110 </text>"
+            "@metatarsus"
         ],
         "311": [
             "AREA Farmacolox\u00eda",
@@ -27274,6 +27312,15 @@
             "@antipsic\u00f3tico",
             ";",
             "@neurol\u00e9ptico"
+        ],
+        "3110": [
+            "AREA Semiolox\u00eda",
+            "LINGUA es",
+            "@meteorismo",
+            "LINGUA en",
+            "@meteorism",
+            "LINGUA pt",
+            "@meteorismo"
         ],
         "3111": [
             "AREA Bioqu\u00edmica",
@@ -27953,6 +28000,15 @@
             "@myoclonus",
             "LINGUA pt",
             "@mioclonia"
+        ],
+        "3169": [
+            "AREA Patolox\u00edas",
+            "LINGUA es",
+            "@miofascitis",
+            "LINGUA en",
+            "@myofascitis",
+            "LINGUA pt",
+            "@miofascite"
         ],
         "317": [
             "AREA Farmacolox\u00eda",
@@ -29327,8 +29383,33 @@
             "LINGUA pt",
             "@m\u00fasculo cut\u00e2neo",
             "LINGUA la",
-            "@musculus cutaneus",
-            "<text top=\"125\" left=\"89\" width=\"35\" height=\"18\" font=\"2\"> 3276 </text>"
+            "@musculus cutaneus"
+        ],
+        "3276": [
+            "AREA Anatom\u00eda",
+            "SIN  m\u00fasculo elevador do labio ",
+            "inferior; m\u00fasculo mentoniano",
+            "LINGUA es",
+            "@borla de la barba (f)",
+            ";",
+            "@m\u00fasculo ",
+            "@      mental",
+            ";",
+            "@m\u00fasculo mentoniano",
+            "LINGUA en",
+            "@chin muscle",
+            ";",
+            "@mentalis",
+            ";",
+            "@mentalis ",
+            "@      muscle",
+            ";",
+            "@musculus levator labii ",
+            "@      inferioris",
+            "LINGUA pt",
+            "@m\u00fasculo mentoniano",
+            "LINGUA la",
+            "@musculus mentalis"
         ],
         "3277": [
             "AREA Anatom\u00eda",
@@ -36589,6 +36670,15 @@
             "LINGUA pt",
             "@pancreatostomia"
         ],
+        "3806": [
+            "AREA Epidemiolox\u00eda",
+            "LINGUA es",
+            "@pandemia",
+            "LINGUA en",
+            "@pandemy",
+            "LINGUA pt",
+            "@pandemia"
+        ],
         "3807": [
             "AREA Patolox\u00edas",
             "LINGUA es",
@@ -39415,6 +39505,20 @@
             "LINGUA pt",
             "@plexopatia"
         ],
+        "4019": [
+            "AREA Terap\u00e9utica",
+            "VAR VAR.- plicaci\u00f3n",
+            "LINGUA es",
+            "@plicaci\u00f3n",
+            ";",
+            "@plicatura",
+            "LINGUA en",
+            "@plication",
+            "LINGUA pt",
+            "@plica\u00e7\u00e3o",
+            ";",
+            "@plicatura"
+        ],
         "402": [
             "AREA Anatom\u00eda",
             "SIN  c\u00f3rtex auditivo (m)",
@@ -41919,8 +42023,7 @@
             "LINGUA en",
             "@PCA (sg); posterior cerebral artery",
             "LINGUA pt",
-            "@ACP",
-            "<text top=\"324\" left=\"169\" width=\"25\" height=\"14\" font=\"0\"> (sg); </text>",
+            "@ACP (sg);",
             "@art\u00e9ria cerebral posterior",
             "LINGUA la",
             "@arteria cerebri posterior"
@@ -43018,9 +43121,7 @@
             "@radical ",
             "@      carboxilo [Pt.]"
         ],
-        "4301": [
-            "<text top=\"522\" left=\"236\" width=\"4\" height=\"10\" font=\"13\"><b>2</b></text>"
-        ],
+        "4301": [],
         "4302": [
             "AREA Bioqu\u00edmica",
             "LINGUA es",
@@ -43079,6 +43180,22 @@
             "@radiobiology",
             "LINGUA pt",
             "@radiobiologia"
+        ],
+        "4308": [
+            "AREA Patolox\u00edas",
+            "VAR VAR.- radiodermite",
+            "LINGUA es",
+            "@radiodermatitis",
+            ";",
+            "@radiodermitis",
+            "LINGUA en",
+            "@radiodermatitis",
+            ";",
+            "@radiodermitis",
+            "LINGUA pt",
+            "@radiodermatite",
+            ";",
+            "@radiodermite"
         ],
         "4309": [
             "AREA Organizaci\u00f3n sanitaria",
@@ -43781,8 +43898,7 @@
             ";",
             "@reflexo ",
             "@      bulbo-cavernoso",
-            "<text top=\"704\" left=\"342\" width=\"35\" height=\"18\" font=\"12\"> 4359 </text>",
-            "reflexo corneal      m",
+            "4359 reflexo corneal      m",
             "@Semiolox\u00eda",
             "SIN  reflexo palpebral",
             "LINGUA es",
@@ -44488,7 +44604,6 @@
         "4413": [
             "AREA Histolox\u00eda",
             "SIN  ret\u00edculo endoplasm\u00e1tico agranular; ",
-            "<text top=\"230\" left=\"121\" width=\"47\" height=\"14\" font=\"0\">  REL (sg) </text>",
             "VAR VAR.- ret\u00edculo endopl\u00e1smico liso",
             "LINGUA es",
             "@REL (sg)",
@@ -57342,6 +57457,15 @@
             "LINGUA la",
             "@atlas"
         ],
+        "544": [
+            "AREA Etiopatoxenia",
+            "LINGUA es",
+            "@atopia",
+            "LINGUA en",
+            "@atopy",
+            "LINGUA pt",
+            "@atopia"
+        ],
         "545": [
             "AREA Patolox\u00edas",
             "LINGUA es",
@@ -63535,7 +63659,9 @@
             "DESC Vid.- citomegalovirus"
         ],
         "CO": [
-            "<text top=\"666\" left=\"149\" width=\"4\" height=\"10\" font=\"13\"><b>2</b></text>",
+            "DESC Vid.- mon\u00f3xido de carbono"
+        ],
+        "CO2": [
             "DESC Vid.- di\u00f3xido de carbono"
         ],
         "COXIB": [
@@ -64632,17 +64758,7 @@
             "DESC Vid.- nebulizaci\u00f3n"
         ],
         "atomizador": [
-            "DESC Vid.- nebulizador",
-            "<text top=\"189\" left=\"342\" width=\"35\" height=\"18\" font=\"2\">  544 </text>"
-        ],
-        "atop\u00eda": [
-            "AREA Etiopatoxenia",
-            "LINGUA es",
-            "@atopia",
-            "LINGUA en",
-            "@atopy",
-            "LINGUA pt",
-            "@atopia"
+            "DESC Vid.- nebulizador"
         ],
         "atordoamento": [
             "DESC Vid.- miocardio atordoado"
@@ -65778,8 +65894,7 @@
             "DESC Vid.- diarrea"
         ],
         "desconxestivo": [
-            "DESC Vid.- desconxestionante",
-            "<text top=\"683\" left=\"89\" width=\"35\" height=\"18\" font=\"2\"> 1351 </text>"
+            "DESC Vid.- desconxestionante"
         ],
         "descorticaci\u00f3n": [
             "DESC Vid.- capsulectom\u00eda"
@@ -66148,24 +66263,7 @@
             "DESC Vid.- sarna"
         ],
         "escafoide": [
-            "DESC Vid.- \u00f3so escafoide",
-            "<text top=\"125\" left=\"342\" width=\"35\" height=\"18\" font=\"2\"> 1747 </text>"
-        ],
-        "escala": [
-            "AREA Anatom\u00eda",
-            "SIN  rampla timp\u00e1nica",
-            "LINGUA es",
-            "@escala timp\u00e1nica",
-            ";",
-            "@rampa timp\u00e1nica",
-            "LINGUA en",
-            "@scala tympani",
-            "LINGUA pt",
-            "@escala timp\u00e2nica",
-            ";",
-            "@rampa timp\u00e2nica",
-            "LINGUA la",
-            "@scala tympani"
+            "DESC Vid.- \u00f3so escafoide"
         ],
         "escalpelo": [
             "DESC Vid.- bistur\u00ed"
@@ -66576,17 +66674,7 @@
             "uterino"
         ],
         "fibromioma": [
-            "DESC Vid.- leiomioma uterino",
-            "<text top=\"716\" left=\"342\" width=\"35\" height=\"18\" font=\"2\"> 2033 </text>"
-        ],
-        "fibronectina": [
-            "AREA Bioqu\u00edmica",
-            "LINGUA es",
-            "@fibronectina",
-            "LINGUA en",
-            "@fibronectin",
-            "LINGUA pt",
-            "@fibronectina"
+            "DESC Vid.- leiomioma uterino"
         ],
         "filar\u00edase": [
             "DESC Vid.- filariose"
@@ -67792,15 +67880,6 @@
         "marcha": [
             "DESC Vid.- marcha festinante"
         ],
-        "mareo": [
-            "AREA Semiolox\u00eda",
-            "LINGUA es",
-            "@mareo",
-            "LINGUA en",
-            "@dizziness",
-            "LINGUA pt",
-            "@tontura"
-        ],
         "marihuana": [
             "DESC Vid.- cannabis"
         ],
@@ -67904,15 +67983,6 @@
         "mesolobo": [
             "DESC Vid.- corpo caloso"
         ],
-        "meteorismo": [
-            "AREA Semiolox\u00eda",
-            "LINGUA es",
-            "@meteorismo",
-            "LINGUA en",
-            "@meteorism",
-            "LINGUA pt",
-            "@meteorismo"
-        ],
         "miastenia": [
             "DESC Vid.- ",
             "AREA miastenia ",
@@ -67935,17 +68005,7 @@
             "DESC Vid.- mioclon\u00eda"
         ],
         "miodinia": [
-            "DESC Vid.- mialxia",
-            "<text top=\"619\" left=\"89\" width=\"35\" height=\"18\" font=\"2\"> 3169 </text>"
-        ],
-        "miofascite": [
-            "AREA Patolox\u00edas",
-            "LINGUA es",
-            "@miofascitis",
-            "LINGUA en",
-            "@myofascitis",
-            "LINGUA pt",
-            "@miofascite"
+            "DESC Vid.- mialxia"
         ],
         "miohemoglobina": [
             "DESC Vid.- mioglobina"
@@ -68597,17 +68657,7 @@
             "DESC Vid.- pestanexo"
         ],
         "pancrectom\u00eda": [
-            "DESC Vid.- pancreatectom\u00eda",
-            "<text top=\"366\" left=\"89\" width=\"35\" height=\"18\" font=\"2\"> 3806 </text>"
-        ],
-        "pandemia": [
-            "AREA Epidemiolox\u00eda",
-            "LINGUA es",
-            "@pandemia",
-            "LINGUA en",
-            "@pandemy",
-            "LINGUA pt",
-            "@pandemia"
+            "DESC Vid.- pancreatectom\u00eda"
         ],
         "pano": [
             "DESC Vid.- ",
@@ -68887,22 +68937,7 @@
             "DESC Vid.- plexo sacro"
         ],
         "plicaci\u00f3n": [
-            "DESC Vid.- plicatura",
-            "<text top=\"666\" left=\"342\" width=\"35\" height=\"18\" font=\"2\"> 4019 </text>"
-        ],
-        "plicatura": [
-            "AREA Terap\u00e9utica",
-            "VAR VAR.- plicaci\u00f3n",
-            "LINGUA es",
-            "@plicaci\u00f3n",
-            ";",
-            "@plicatura",
-            "LINGUA en",
-            "@plication",
-            "LINGUA pt",
-            "@plica\u00e7\u00e3o",
-            ";",
-            "@plicatura"
+            "DESC Vid.- plicatura"
         ],
         "plumbismo": [
             "DESC Vid.- saturnismo"
@@ -69337,24 +69372,7 @@
             "DESC Vid.- quimiotaxe"
         ],
         "radiodensidade": [
-            "DESC Vid.- radioopacidade",
-            "<text top=\"558\" left=\"342\" width=\"35\" height=\"18\" font=\"2\"> 4308 </text>"
-        ],
-        "radiodermatite": [
-            "AREA Patolox\u00edas",
-            "VAR VAR.- radiodermite",
-            "LINGUA es",
-            "@radiodermatitis",
-            ";",
-            "@radiodermitis",
-            "LINGUA en",
-            "@radiodermatitis",
-            ";",
-            "@radiodermitis",
-            "LINGUA pt",
-            "@radiodermatite",
-            ";",
-            "@radiodermite"
+            "DESC Vid.- radioopacidade"
         ],
         "radiodermite": [
             "DESC Vid.- radiodermatite"

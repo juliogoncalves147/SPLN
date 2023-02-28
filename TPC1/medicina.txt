@@ -99453,9 +99453,7 @@ LINGUA la
 ###T tubectomía 
 
 DESC Vid.- salpinxectomía
-###TN 5057 
-tuber cinereum
-###T m
+###TN 5057 tuber cinereum  m 
 
 
 AREA Anatomía

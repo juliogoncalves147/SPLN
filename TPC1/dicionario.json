@@ -52805,7 +52805,17 @@
             "@tuba uterina"
         ],
         "5057": [
-            "tuber cinereum"
+            "AREA Anatom\u00eda",
+            "LINGUA es",
+            "@tuber cinereum",
+            "LINGUA en",
+            "@tuber cinereum",
+            "LINGUA pt",
+            "@t\u00faber cin\u00e9reo",
+            ";",
+            "@tuber cinereum",
+            "LINGUA la",
+            "@tuber cinereum"
         ],
         "5058": [
             "AREA Semiolox\u00eda",
@@ -67792,17 +67802,13 @@
             "DESC Vid.- s\u00edfilis"
         ],
         "m": [
-            "AREA Anatom\u00eda",
+            "AREA Termos xerais",
             "LINGUA es",
-            "@tuber cinereum",
+            "@rigor mortis",
             "LINGUA en",
-            "@tuber cinereum",
+            "@rigor mortis",
             "LINGUA pt",
-            "@t\u00faber cin\u00e9reo",
-            ";",
-            "@tuber cinereum",
-            "LINGUA la",
-            "@tuber cinereum"
+            "@rigor mortis"
         ],
         "macicez": [
             "DESC Vid.- matidez"

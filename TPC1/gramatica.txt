@@ -1,0 +1,28 @@
+DIC -> meta l*
+
+
+
+
+Lark Parser
+
+TPC
+Através da gramática da aula criar um Parser
+
+Aproveitar o TPC anterior e melhora-lo.
+
+Adicionar um ficheiro markdown explicativo do que foi feito/em que consiste o tpc.
+
+
+
+Dicionario -> Meta Entrada*
+
+Entrada -> Item*
+
+Item  -> ATConceito
+        | lingua
+
+ATConceito -> ID ':' valor
+
+Lingua -> IDLingua ':' T*
+
+T -> 

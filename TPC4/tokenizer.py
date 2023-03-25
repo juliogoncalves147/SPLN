@@ -35,7 +35,7 @@ text = re.sub(regex_cap, r"\1 \2", text, flags = re.UNICODE)
 
 # 5 . Uma frase por linha
 regex_cap = r"(?<= \.)\s(.+?) \."
-text = re.sub(regex_cap, r" \n\t\t\1", text, flags = re.UNICODE)
+text = re.sub(regex_cap, r" \n\t\t\1 .", text, flags = re.UNICODE)
 
 #regex_cap = r"\n(.*?) .\n"
 #text = re.sub(regex_cap, r"<paragrafo>\1<paragrafo", text, flags = re.UNICODE)

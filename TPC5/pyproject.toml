@@ -12,4 +12,4 @@ dependencies = ["spacy"]
 readme = "README.md"
 
 [project.scripts]
-tok = "tokenizer:main"
+tok = "tokenizer.__init__:main"

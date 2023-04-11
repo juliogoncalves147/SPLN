@@ -54,4 +54,4 @@ def main():
     regex_poema = r"<poema>(.*?)</poema>"
     text = re.sub(regex_poema, guardar_poema, text, flags = re.S)
 
-f.write(text)
+    f.write(text)
